@@ -4,7 +4,7 @@ i'm studying computer science, statistics, and english literature at the Univers
 
 currently: sidequesting!
 
-### 💻 stuff i know
+### stuff i know
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=000000&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C++-30448c?style=for-the-badge&labelColor=000000&logo=c%2B%2B&logoColor=30448c)
 ![Java](https://img.shields.io/badge/-Java-ec2025?style=for-the-badge&labelColor=000000&logo=coffeescript&logoColor=ec2025)

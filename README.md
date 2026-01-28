@@ -9,7 +9,7 @@ I'm studying computer science, statistics, and english literature at the Univers
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&labelColor=000000&logo=typescript&logoColor=F7DF1E)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&labelColor=000000&logo=r&logoColor=276DC3)
 ![BASH](https://img.shields.io/badge/-bash-282f37?style=for-the-badge&labelColor=000000&logo=gnubash&logoColor=282f37)
-![Ruby](https://img.shields.io/badge/-ruby-2C2D72?style=for-the-badge&labelColor=000000&logo=lua&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-2C2D72?style=for-the-badge&labelColor=000000&logo=ruby&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=000000&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=000000&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=000000&logo=fastapi&logoColor=009688)

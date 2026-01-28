@@ -1,6 +1,8 @@
 ## hi! i'm enaya!
 
-I'm studying computer science, statistics, and english literature at the University of Toronto. Currently sidequesting. 
+i'm studying computer science, statistics, and english literature at the University of Toronto.
+
+currently: sidequesting!
 
 ### 💻 stuff i know
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=000000&logo=python&logoColor=3776AB)
